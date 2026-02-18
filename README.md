@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 MCA Student specializing in Artificial Intelligence  
+- 🎓 MCA Student learning in Artificial Intelligence  
 - 🤖 Passionate about Machine Learning & NLP  
 - 💻 Full Stack Developer (Java | PHP | Python)  
 - 🏆 Hackathon Participant – SIH & X-Fair  
@@ -40,13 +40,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Yash's GitHub stats](https://github.com/Yashparmar29/Yashparmar29)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Add your Email)
+- 💼 LinkedIn: (http://www.linkedin.com/in/parmar-yash-7098712a7)
+- 📧 Email: (parmaryas29@gmail.com)
 
 ---
 
