@@ -40,7 +40,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Yash's GitHub stats]https://github.com/Yashparmar29
+https://github.com/Yashparmar29
 
 ---
 
