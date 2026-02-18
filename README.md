@@ -40,13 +40,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Yash's GitHub stats](https://github.com/Yashparmar29/Yashparmar29)
+![Yash's GitHub stats]https://github.com/Yashparmar29
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (http://www.linkedin.com/in/parmar-yash-7098712a7)
-- 📧 Email: (parmaryas29@gmail.com)
+- 💼 LinkedIn: http://www.linkedin.com/in/parmar-yash-7098712a7
+- 📧 Email: parmaryas29@gmail.com
 
 ---
 
