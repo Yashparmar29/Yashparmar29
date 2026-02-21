@@ -15,7 +15,7 @@
 ## 🚀 Projects
 
 ### 🔹 Fake News Detection System
-- ML-based system to detect fake news, fake images & phishing emai
+- ML-based system to detect fake news, fake images & phishing emails
 - Used NLP, TF-IDF & Logistic Regression  
 - Built with Python & Flask  
 
