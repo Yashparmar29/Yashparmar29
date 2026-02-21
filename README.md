@@ -29,7 +29,7 @@
 - Integrated MySQL database  
 - Implemented cart & product management system  
 
---
+---
 
 ## 🛠️ Tech Stack
 **Programming:** Java | Python | C | PHP  
