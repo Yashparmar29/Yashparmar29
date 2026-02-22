@@ -50,9 +50,9 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashparmar29&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yashparmar29&theme=onedark&no-frame=true&margin-w=10&row=2&column=3" />
+</p>
 
 ---
 
