@@ -51,7 +51,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="left">
-  <img src="https://github-profile-badges.vercel.app/api/badges/Yashparmar29" width="400" />
+  [![trophies](https://github-profile-trophy.vercel.app/?username=Yashparmar29&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
