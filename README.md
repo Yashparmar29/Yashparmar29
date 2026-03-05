@@ -52,6 +52,8 @@
 - 🏏 **Analyzing:** IPL Historical Data for player auction price prediction.
 - ☁️ **Deploying:** Moving ML models from local notebooks to AWS/GCP.
 
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="left">
