@@ -47,6 +47,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashparmar29&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
+## 🎯 Professional Focus 2024-2025
+- 🏗️ **Architecting:** Scalable RAG (Retrieval-Augmented Generation) systems.
+- 🏏 **Analyzing:** IPL Historical Data for player auction price prediction.
+- ☁️ **Deploying:** Moving ML models from local notebooks to AWS/GCP.
 
 ## 🏆 GitHub Achievements
 
